@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1669581386524" clover="3.2.0">
+  <project timestamp="1669581386525" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="24" coveredconditionals="24" methods="1" coveredmethods="1" elements="44" coveredelements="44" complexity="0" loc="19" ncloc="19" packages="1" files="1" classes="1"/>
+    <file name="main.ts" path="/home/yanwr/projects/refactoring/src/main.ts">
+      <metrics statements="19" coveredstatements="19" conditionals="24" coveredconditionals="24" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="8" type="stmt"/>
+      <line num="3" count="8" type="stmt"/>
+      <line num="4" count="8" type="cond" truecount="6" falsecount="0"/>
+      <line num="5" count="7" type="cond" truecount="6" falsecount="0"/>
+      <line num="7" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="11" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="14" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="24" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="44" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="47" count="5" type="stmt"/>
+    </file>
+  </project>
+</coverage>
